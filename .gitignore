@@ -37,3 +37,5 @@ dist/
 ollama_data/
 *.onnx
 
+.gitignore
+
