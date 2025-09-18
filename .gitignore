@@ -1,0 +1,39 @@
+# Byte-compiled / caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python packaging
+build/
+dist/
+*.egg-info
+
+# IDE settings
+.vscode/
+.idea/
+
+# Streamlit state and logs
+.streamlit/
+
+# Chroma / embeddings / vector DB / LLM caches
+.chroma/
+*.db
+*.sqlite
+
+# Ollama / model caches (do NOT commit)
+ollama_data/
+*.onnx
+
